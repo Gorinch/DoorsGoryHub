@@ -11,7 +11,7 @@ GoryHub is a powerful and user-friendly script for Roblox DOORS, featuring a mod
 
 Copy and paste this code into your executor:
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/Gorinch/DoorsGoryHub/main/Main.lua](https://raw.githubusercontent.com/Gorinch/DoorsGoryHub/main/Main.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gorinch/DoorsGoryHub/main/Main.lua"))()
 ```
 
 ## Key Features:
